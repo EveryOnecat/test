@@ -13,7 +13,7 @@ body {
 /*
  * ...hello?            
  *
- * 亲爱的甜甜 ，好久不见！           
+ * ！           
 
  */
 
@@ -93,7 +93,7 @@ pre { left: 50%; width: 45%}
 }
 
 
-/* 你问我爱你有多深，代码代表我的心 (●′ω`●) */
+/*  (●′ω`●) */
 
 #heart::after { 
   box-shadow:
@@ -109,7 +109,7 @@ pre { left: 50%; width: 45%}
 /* /
 
 #heart i::before {
-  content: '甜甜';
+  content: '';
   position: absolute;
   z-index: 9;
   width: 100%;
