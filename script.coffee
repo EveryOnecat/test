@@ -12,8 +12,7 @@ body {
 
 /*
  * ...hello?            
- *
- * ！           
+ *你好！           
 
  */
 
@@ -45,7 +44,7 @@ pre em:not(.comment) { font-style: normal; }
 
 
 /* 
- *           
+ *    这是送给你的礼物，谢谢你观看       
  */ 
 
 pre { left: 50%; width: 45%}
